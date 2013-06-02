@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-ProductDemoBe::Application.load_tasks
+Rhostore::Application.load_tasks

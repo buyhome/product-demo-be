@@ -12,7 +12,7 @@ development:
   adapter: mysql
   encoding: utf8
   reconnect: false
-  database: product-demo-be_development
+  database: rhostore_development
   pool: 5
   username: yunjia
   password: 555555QQ
@@ -26,7 +26,7 @@ test:
   adapter: mysql
   encoding: utf8
   reconnect: false
-  database: product-demo-be_test
+  database: rhostore_test
   pool: 5
   username: yunjia
   password: 555555QQ
@@ -37,7 +37,7 @@ production:
   adapter: mysql
   encoding: utf8
   reconnect: false
-  database: product-demo-be_production
+  database: rhostore_production
   pool: 5
   username: yunjia
   password: 555555QQ
